@@ -4,3 +4,5 @@
 
 This mods plays the owl sound effect outside the Mystical House in Traverse Town like on the PS2 version.
 It is mixed by hand, I took the sound effect from the PS2 version and mixed in the wind sound effect with tweaks to sounds natural.
+
+Thanks Square Soft for the sound effect among everything else.
