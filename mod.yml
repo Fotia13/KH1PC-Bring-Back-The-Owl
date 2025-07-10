@@ -1,0 +1,9 @@
+title: Bring Back The Owl
+originalAuthor: Fotia13
+description: This mods plays the owl sound effect outside the Mystical House in Traverse Town like on the PS2 version.
+dependencies: 
+assets:
+- name: remastered/amusic/setw.dat/se021013.win32.scd
+  method: copy
+  source:
+  - name: se021013.win32.scd
